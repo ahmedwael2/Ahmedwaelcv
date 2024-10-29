@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Wael - CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Ahmed Wael Anwar</h1>
+        <p>Electronics & Communication Engineer</p>
+        <p><strong>Email:</strong> ahmedwaelanwar2@gmail.com | <strong>Phone:</strong> +201010280631</p>
+        <p><a href="http://www.linkedin.com/in/ahmed-wael-b209111b2" target="_blank">LinkedIn</a></p>
+    </header>
+
+    <section>
+        <h2>Career Objective</h2>
+        <p>Highly motivated and dedicated Electronics and Communication Engineer with a passion for IT and Cyber Security. Seeking a challenging position to leverage my academic background and drive for excellence.</p>
+    </section>
+
+    <section>
+        <h2>Work Experience</h2>
+        <h3>Telecommunication Engineer - Afro Egypt</h3>
+        <p><strong>Location:</strong> Cairo | <strong>Dates:</strong> Nov 2023 – Present</p>
+        <ul>
+            <li>Expertise in resolving alarm issues within site devices, ensuring seamless operation.</li>
+            <li>Served as a proactive Team Leader, optimizing team performance and efficiency.</li>
+            <li>Proficient in Nokia telecommunication devices for troubleshooting and maintenance.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p>Bachelor of Electronics and Communication Engineering</p>
+        <p>Arab Academy for Science and Technology (09 2018 – 07 2023), GPA: 3.30</p>
+        <p><strong>Graduation Project:</strong> IoT-based Smart Agriculture Monitoring System and Plant Disease Detection</p>
+        <ul>
+            <li>Led the development of an innovative IoT-based agricultural smart robot.</li>
+            <li>Designed a system with sensors to measure soil moisture levels accurately.</li>
+            <li>Developed an IoT infrastructure for real-time data collection and analysis.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Courses</h2>
+        <ul>
+            <li>Cyber Security Phase One - ITI (Jan 2023 – Mar 2023)</li>
+            <li>Security Courses (SOC, SQL Injection, Network Defense, HCIA-Datacom)</li>
+            <li>CCNA 300-201 Training - ICG (Jun 2022 – Sep 2022)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Knowledge of IT and Cyber Security principles</li>
+            <li>Proficient in Python, C#, MATLAB, and C++</li>
+            <li>Teamwork and problem-solving skills</li>
+            <li>Proficient in MS Office Suite</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Ahmed Wael Anwar</p>
+    </footer>
+</body>
+</html>
